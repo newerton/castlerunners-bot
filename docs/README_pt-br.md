@@ -40,7 +40,7 @@ Recursos:
 * Novos comandos no Telegram (workall, restall)
 
 ## 🎁 <a id="donation"></a>Doação
-BCOIN: 0x4847C29561B6682154E25c334E12d156e19F613a  
+CASTLE: 0x4847C29561B6682154E25c334E12d156e19F613a  
 PIX: 08912d17-47a6-411e-b7ec-ef793203f836  
 
 ## 🪟 <a id="installation"></a>Instalação
@@ -213,5 +213,5 @@ exemplo na pasta "targets" para uma tirada no seu próprio computador:
 
 ## 👍 Curtiu? Dê aquela fortalecida :)
 
-### BCOIN: 0x4847C29561B6682154E25c334E12d156e19F613a  
+### CASTLE: 0x4847C29561B6682154E25c334E12d156e19F613a  
 ### PIX: 08912d17-47a6-411e-b7ec-ef793203f836
